@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items: center ;
+}
+
+footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body{
+    background-color: rgb(65, 58, 58);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.purpletext{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    font-size: x-small;
+}
+
+.pug{
+    background-image: url(../img/pug.jpeg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.pug2{
+    background-image: url(../img/pug.jpeg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+.orange{
+    background-color: rgb(236, 117, 5);
+    width: 100px;
+    height: 100px;
+}
+
+.greentext{
+    background-color: green;
+    width: 100px; 
+    height: 100px;
+    font-size: x-small;
+}
+
+.purple{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
+
+.orangetext{
+    background-color: rgb(236, 117, 5);
+    width: 100px; 
+    height: 100px;
+    font-size: x-small;
+}
+
+.pug3{
+    background-image: url(../img/pug.jpeg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
